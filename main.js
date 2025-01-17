@@ -6,7 +6,7 @@ const randomNumber = Math.floor(Math.random() * 100) + 1;
 let attempts = 0;
 
 function guessNumber(userGuess) {
-	attempts++;
+	asadttempts++;
 	if (userGuess > randomNumber) {
 		console.log('Too high! Try again.');
 	}w
