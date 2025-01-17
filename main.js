@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Main.js
 
 // Generate a random number between 1 and 100
@@ -14,6 +14,3 @@ function guessNumber(userGuess) {
 
 // Example usage
 guessNumber(50); // Replace 50 with the user's guess
-=======
-jbijibibib
->>>>>>> update
